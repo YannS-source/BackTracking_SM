@@ -11,4 +11,4 @@ This code depends on "Functions_for_Strategy_Testing.py", that specify the above
 The codes are rather straightforward and easy to pick up. Feel free to contact me if you have any questions or comments.
 
 Disclosure information:
-This code is based on historical data, and there can be no assurance regarding future market movements. Moreover, you should double-check it to ensure there are no errors or misunderstandings—I am not responsible for any losses or damages resulting from its use.
+This code is based on historical data, and there can be no assurance regarding future market movements. I am not responsible for any losses or damages resulting from its use.
